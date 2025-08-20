@@ -92,6 +92,12 @@ CodeAlpha_CreditScoringModel/
    ```
 
 ---
+##  Demo Video
+View the complete Task 2 walkthrough – Emotion Recognition from Speech:
+
+[Demo Video on Google Drive](https://drive.google.com/file/d/1Cyn6GvmO8H0z6O6pLaExZ_UqJ7xl9rxX/view?usp=sharing)
+
+---
 
 ##  Acknowledgments
 
