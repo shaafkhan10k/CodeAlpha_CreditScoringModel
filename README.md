@@ -5,22 +5,22 @@ The goal is to build a **Credit Scoring Model** that predicts an individual's cr
 
 ---
 
-## 📌 Objective
+##  Objective
 
 Predict whether a person is **creditworthy (1)** or **not creditworthy (0)** based on their past financial records.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-* Python 🐍
+* Python 
 * Pandas, NumPy (data preprocessing)
 * Scikit-learn (Logistic Regression, Decision Tree, Random Forest)
 * Matplotlib, Seaborn (visualization)
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 * Dataset: **credit\_data.csv** (synthetic dataset of 2000 rows created for this task)
 * Features include:
@@ -34,7 +34,7 @@ Predict whether a person is **creditworthy (1)** or **not creditworthy (0)** bas
 
 ---
 
-## 🚀 Approach
+##  Approach
 
 1. Load and preprocess dataset
 2. Feature engineering and scaling
@@ -49,7 +49,7 @@ Predict whether a person is **creditworthy (1)** or **not creditworthy (0)** bas
 
 ---
 
-## 📈 Results (Sample)
+##  Results (Sample)
 
 | Model               | Accuracy | Precision | Recall   | F1-Score | ROC-AUC  |
 | ------------------- | -------- | --------- | -------- | -------- | -------- |
@@ -57,11 +57,11 @@ Predict whether a person is **creditworthy (1)** or **not creditworthy (0)** bas
 | Decision Tree       | 0.85     | 0.81      | 0.83     | 0.82     | 0.85     |
 | Random Forest       | **0.91** | **0.89**  | **0.87** | **0.88** | **0.93** |
 
-✅ **Random Forest performed best overall.**
+ **Random Forest performed best overall.**
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```
 CodeAlpha_CreditScoringModel/
@@ -74,7 +74,7 @@ CodeAlpha_CreditScoringModel/
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 1. Clone the repo:
 
@@ -95,7 +95,7 @@ CodeAlpha_CreditScoringModel/
 
 ---
 
-## 🙌 Acknowledgments
+##  Acknowledgments
 
 * Internship provided by **[CodeAlpha](https://www.codealpha.tech/)**
 * Mentors & community support
