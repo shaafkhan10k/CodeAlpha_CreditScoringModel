@@ -67,9 +67,7 @@ Predict whether a person is **creditworthy (1)** or **not creditworthy (0)** bas
 CodeAlpha_CreditScoringModel/
 │── credit_data.csv          # Dataset
 │── task1_credit_scoring.py  # Main code
-│── requirements.txt         # Dependencies
 │── README.md                # Project documentation
-│── reports/                 # Metrics, confusion matrix, ROC curve
 ```
 
 ---
